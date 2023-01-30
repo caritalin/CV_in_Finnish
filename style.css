@@ -43,10 +43,7 @@ html {
 .header h2 {
     font-size: 20px;
 }
-.gutter {
-    padding-left: 3.5rem;
-    padding-right: 3.5rem;
-}
+
 
 
 #full {
@@ -114,11 +111,6 @@ ul#navMain li {
   left: 10px;
   text-shadow: -2px -2px 5px black;
 }
-  .fakeimg {
-    background-color: #aaa;
-    width: 100%;
-    padding: 20px;
-  }
   .cardLeft {
     font-size: 20px;
     background-color: white;
@@ -165,7 +157,7 @@ border-radius:50px;
   }
 
   #darkgrey{
-    color: #707070;
+    color: #970a90;
     font-style: italic;
   }
 
@@ -245,4 +237,3 @@ a {
       float: none;
       width: 100%;
     }
-  }
